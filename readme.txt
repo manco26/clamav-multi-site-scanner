@@ -4,7 +4,7 @@ Tags: security, clamav, scanner, multi-site
 Requires at least: 4.0
 Tested up to: 5.8
 Stable tag: 1.0.0
-License: MIT
+License: GPL
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 A WordPress multi-site plugin that scans for viruses using ClamAV.
